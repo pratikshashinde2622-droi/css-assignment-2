@@ -1,0 +1,72 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    border: none;
+    border-radius: 80px 20px 80px 20px;
+    color: darkolivegreen;
+    margin-top: 10px;
+    margin-right: 40px;
+
+}
+ .btn2 {
+    width: 100px;
+    height: 50px;
+    background-color: lightcoral;
+    border: none;
+    border-radius: 20px;
+    color: white;
+     margin-right: 40px;
+
+ }
+.btn3 {
+    width: 150px;
+    height: 50px;
+    background-color: lightgreen;
+    border: none;
+    border-radius:0 50px;
+    color: black;
+     margin-right: 40px;
+
+}
+.btn4 {
+    width: 150px;
+    height: 50px;
+    background-color: lightpink;
+    border: none;
+    border-radius: 50px 50px 0 50px ;
+    color: black;
+     margin-right: 40px;
+
+}
+#btn5 {
+    width: 150px;
+    height: 50px;
+    background-color: lightgrey;
+    border: none;
+    border-radius: 0 0 10px 10px ;
+    color: black;
+     margin-right: 40px;
+
+}
+#btn6 {
+    width: 150px;
+    height: 50px;
+    background-color: lightsalmon;
+    border: none;
+    border-radius: 0 10px 10px 0 ;
+    color: black;
+     margin-right: 40px;
+     padding-left: 10px;
+     padding-right: 10px;
+
+}
+#btn7 {
+    width: 150px;
+    height: 50px;
+    background-color: lightseagreen;
+    border: none;
+    border-radius: 50px 0 0 0 ;
+    color: black;
+    padding-left: 10px;
+}
